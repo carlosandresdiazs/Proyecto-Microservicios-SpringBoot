@@ -1,4 +1,4 @@
-# Taller 02 v2.0 - Aplicación con Arquitectura de Microservicios
+# Aplicación con Arquitectura de Microservicios - v1.0
 
 Proyecto académico para **Web, APIs y Microservicios**. Implementa una arquitectura distribuida con Java 21, Spring Boot 4.0.8, Spring Cloud Gateway 5.0.3 (Spring Cloud 2025.1.3), PostgreSQL, JWT RSA, Swagger/OpenAPI, Docker Compose y GitHub Actions.
 
